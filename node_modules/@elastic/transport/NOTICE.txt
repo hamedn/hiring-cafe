@@ -1,0 +1,2 @@
+Elasticsearch JavaScript Client Transport
+Copyright 2022-2025 Elasticsearch B.V.
